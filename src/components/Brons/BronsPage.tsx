@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState,useMemo } from "react";
 import Option from "../Catalog/Option";
 import Input from "../Brons/Input";
 import Button from "../header/button";
@@ -13,14 +13,15 @@ const BronsPage: React.FC = () => {
   const [flightTime, setFlightTime] = useState<string>("");
   const [date, setDate] = useState<string>(""); 
 
-  const seats = {
+  const seats = useMemo(() => ({
     SectorA: ["A1", "A2", "A3", "A4", "A5"],
     SectorB: ["B1", "B2", "B3", "B4"],
     SectorC: ["C1", "C2", "C3"],
-  };
+  }), []);
 
   const [availableSeats, setAvailableSeats] = useState(seats.SectorA);
   const navigate = useNavigate();
+  
 
   
   const handleSectorChange = (event: React.ChangeEvent<HTMLSelectElement>) => {

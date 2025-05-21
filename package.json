@@ -1,7 +1,7 @@
 {
-  "homepage": "https://ASGdevelor.github.io/ReactAPP",
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://asgdevelor.github.io/ReactAPP",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -20,11 +20,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    
-    "start": "node server.js",
-    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
