@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactAPP/static/css/main.35f32606.css",
+    "main.js": "/ReactAPP/static/js/main.3a9113c4.js",
+    "static/js/453.ed3810f9.chunk.js": "/ReactAPP/static/js/453.ed3810f9.chunk.js",
+    "static/media/terminal-aeroporta.jpg": "/ReactAPP/static/media/terminal-aeroporta.844bdd43263e7991dbb4.jpg",
+    "static/media/polet-v-nebo-zakata.jpg": "/ReactAPP/static/media/polet-v-nebo-zakata.aedd4120dd79fb6c00ad.jpg",
+    "static/media/Rome.png": "/ReactAPP/static/media/Rome.289205f6f953b8ea35a1.png",
+    "static/media/moskov.png": "/ReactAPP/static/media/moskov.f386c65762cc1b483735.png",
+    "static/media/london.png": "/ReactAPP/static/media/london.6afe572c24cc4b9e6fda.png",
+    "static/media/Paris.png": "/ReactAPP/static/media/Paris.61ec73f96fa09344f919.png",
+    "static/media/image2(1).png": "/ReactAPP/static/media/image2(1).5c86d2dbbd52c5dcfc4b.png",
+    "static/media/image.png": "/ReactAPP/static/media/image.2df9b591356abe3af516.png",
+    "static/media/mosckovAir.png": "/ReactAPP/static/media/mosckovAir.d3a8dcd2f962fd4a4446.png",
+    "static/media/Tokye.png": "/ReactAPP/static/media/Tokye.78900dd81191c668b356.png",
+    "static/media/berlinPhoto.png": "/ReactAPP/static/media/berlinPhoto.17c95e04a59d7c74e313.png",
+    "index.html": "/ReactAPP/index.html",
+    "main.35f32606.css.map": "/ReactAPP/static/css/main.35f32606.css.map",
+    "main.3a9113c4.js.map": "/ReactAPP/static/js/main.3a9113c4.js.map",
+    "453.ed3810f9.chunk.js.map": "/ReactAPP/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f32606.css",
+    "static/js/main.3a9113c4.js"
+  ]
+}
